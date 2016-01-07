@@ -17,3 +17,12 @@ Tip: The default size is 15x15px. You can change it with this style:
 img.emoticon {height: XXpx; width: XXpx;} 
 
 where xx is the size and must be the same for both values.
+
+
+License
+-----------------------------------------------------
+Emoji provided free by http://emojione.com
+
+Under Creative Commons Attribution 4.0 International
+http://creativecommons.org/licenses/by/4.0/
+
